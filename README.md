@@ -1,4 +1,4 @@
- Sou o guidovisk1, mais conhecido como Felipe 👋
+
 - Tenho experiência com C#, Ruby on Rails, React, Python e Java Script.
 - fehlipecardooso@gmail.com
  <div align="center">
