@@ -17,10 +17,10 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fsjk2-1.fna.fbcdn.net/v/t51.2885-19/280824616_697416924911161_2476602197622042516_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fsjk2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=HBjQuE_vYoUAX9CeTmv&edm=ALQROFkBAAAA&ccb=7-5&oh=00_AT8xwA4NkiECSTNPZTR5mkAqXFSJkut6cQ0lzJZk0B3K9A&oe=6335A383&_nc_sid=30a2ef">
+ 
 </div>
   
-  ##
+  
  
 <div> 
  
