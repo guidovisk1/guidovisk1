@@ -1,4 +1,4 @@
-## Salve galera, sou o Felipe Cardoso, futuro engenheiro de Software apaixonado por tecnologia!
+## Salve galera, futuro engenheiro de Software apaixonado por tecnologia, espero que gostem dos meus repositórios!
 <div align="center">
   <a href="https://github.com/guidovisk1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guidovisk1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
