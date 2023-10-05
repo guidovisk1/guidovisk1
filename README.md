@@ -12,9 +12,5 @@
   <img align="center" alt="Fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Fe-pic" height="150" style="border-radius:50px;" src="https://instagram.fsjk2-1.fna.fbcdn.net/v/t51.2885-19/280824616_697416924911161_2476602197622042516_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fsjk2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Dka_S5tAl5sAX8eO8E8&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AT8T_JoEC0z68hEbrzcJYBwCuW9Tjv0vIS5-2aEq9v-__A&oe=634F58C3&_nc_sid=1527a3">
-  <a href = "mailto:fehlipecaardooso@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-cardoso-56b759222/" target="_blank"></a> 
-
 </div>
  
